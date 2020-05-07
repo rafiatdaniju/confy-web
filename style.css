@@ -1,0 +1,27 @@
+*{
+    background-color:lightsteelblue;
+    color:black;
+}
+h1{
+text-decoration: underline;
+text-align: center;
+font-weight: bold;
+}
+marquee{
+    font-size: xx-large;
+    color: orange;
+    font-weight: bold;
+    
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+hr{
+    border:top 10;
+
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
